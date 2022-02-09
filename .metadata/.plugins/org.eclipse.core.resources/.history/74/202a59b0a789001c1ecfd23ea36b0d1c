@@ -13,7 +13,6 @@ public class ccc {
 		//System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
 		//WebDriver driver = new ChromeDriver();
     	
-		
         String baseUrl = "http://demo.guru99.com/test/newtours/";
         String expectedTitle = "Welcome: Mercury Tours";
         String actualTitle = "";
